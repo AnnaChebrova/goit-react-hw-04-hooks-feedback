@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/feedback.module.css"],"names":[],"mappings":"AAIA,wBACI,gBACJ,CAEA,+BACI,YAAa,CACb,qBACJ","file":"main.dd334e4e.chunk.css","sourcesContent":["/* .button-container {\r\n    display: flex;\r\n} */\r\n \r\n.button {\r\n    margin-left: 20px;\r\n}\r\n\r\n.statContainer {\r\n    display: flex;\r\n    flex-direction: column;\r\n}"]}
